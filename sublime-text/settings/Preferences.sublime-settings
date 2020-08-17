@@ -1,0 +1,19 @@
+{
+   "color_scheme": "Packages/sublime-sidebar-themes/Syntax-Themes/Trixie.tmTheme",
+   "default_line_ending": "unix",
+   "font_size": 9,
+   "highlight_line": false,
+   "ignored_packages":
+   [
+      "Vintage"
+   ],
+   "rulers":
+   [
+      72
+   ],
+   "tab_size": 3,
+   "theme": "Trixie.sublime-theme",
+   "translate_tabs_to_spaces": true,
+   "word_wrap": true,
+   "tab_completion": false
+}
