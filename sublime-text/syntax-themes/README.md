@@ -10,9 +10,9 @@ In Sublime go to:
 
 Preferences -> Browse Packages
 
-Open a terminal in that folder and do the following command:
+Create a folder in Packages called `sublime-syntax-themes`
 
-`git clone https://github.com/scMarth/sublime-syntax-themes`
+Place the files in this directory in `sublime-syntax-themes`
 
 ## Activating the Syntax Themes
 

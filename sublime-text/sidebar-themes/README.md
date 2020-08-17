@@ -8,55 +8,48 @@ A set of themes and syntax themes for Sublime Text 3, forked from https://github
 
 **iPlastic Theme with iPlastic Syntax Theme**
 
-![Alt text](https://github.com/scMarth/gravity-sublime-theme/blob/master/Sample_Screenshots/iPlastic.png?raw=true)
+![Alt text](https://github.com/scMarth/settings/blob/master/sublime-text/sidebar-themes/Sample_Screenshots//iPlastic.png?raw=true)
 
 **Monokai Theme with Monokai Syntax Theme**
 
-![Alt text](https://github.com/scMarth/gravity-sublime-theme/blob/master/Sample_Screenshots/Monokai.png?raw=true)
+![Alt text](https://github.com/scMarth/settings/blob/master/sublime-text/sidebar-themes/Sample_Screenshots//Monokai.png?raw=true)
 
 **Seahorse Theme with Seahorse Syntax Theme**
 
-![Alt text](https://github.com/scMarth/gravity-sublime-theme/blob/master/Sample_Screenshots/Seahorse.png?raw=true)
+![Alt text](https://github.com/scMarth/settings/blob/master/sublime-text/sidebar-themes/Sample_Screenshots//Seahorse.png?raw=true)
 
 **Dracula Theme with Dracula Syntax Theme**
 
-![Alt text](https://github.com/scMarth/gravity-sublime-theme/blob/master/Sample_Screenshots/Dracula.png?raw=true)
+![Alt text](https://github.com/scMarth/settings/blob/master/sublime-text/sidebar-themes/Sample_Screenshots//Dracula.png?raw=true)
 
 **Dark-Dracula Theme with Dark Dracula Syntax Theme**
 
-![Alt text](https://github.com/scMarth/gravity-sublime-theme/blob/master/Sample_Screenshots/Dark-Dracula.png?raw=true)
+![Alt text](https://github.com/scMarth/settings/blob/master/sublime-text/sidebar-themes/Sample_Screenshots//Dark-Dracula.png?raw=true)
 
 **Trixie Theme with Trixie Syntax Theme**
 
-![Alt text](https://github.com/scMarth/gravity-sublime-theme/blob/master/Sample_Screenshots/Trixie.png?raw=true)
+![Alt text](https://github.com/scMarth/settings/blob/master/sublime-text/sidebar-themes/Sample_Screenshots//Trixie.png?raw=true)
 
 **Slate Theme with Slate Syntax Theme**
 
-![Alt text](https://github.com/scMarth/gravity-sublime-theme/blob/master/Sample_Screenshots/Slate.png?raw=true)
+![Alt text](https://github.com/scMarth/settings/blob/master/sublime-text/sidebar-themes/Sample_Screenshots//Slate.png?raw=true)
 
 **Gravity with Monokai Gravity Syntax Theme**
 
-![Alt text](https://github.com/scMarth/gravity-sublime-theme/blob/master/Sample_Screenshots/Gravity.png?raw=true)
+![Alt text](https://github.com/scMarth/settings/blob/master/sublime-text/sidebar-themes/Sample_Screenshots//Gravity.png?raw=true)
 
 **Gravity One with One Dark Gravity Syntax Theme**
 
-![Alt text](https://github.com/scMarth/gravity-sublime-theme/blob/master/Sample_Screenshots/Gravity-One.png?raw=true)
+![Alt text](https://github.com/scMarth/settings/blob/master/sublime-text/sidebar-themes/Sample_Screenshots//Gravity-One.png?raw=true)
 
 **Reverse Gravity with Dawn Syntax Theme**
 
-![Alt text](https://github.com/scMarth/gravity-sublime-theme/blob/master/Sample_Screenshots/Reverse-Gravity.png?raw=true)
+![Alt text](https://github.com/scMarth/settings/blob/master/sublime-text/sidebar-themes/Sample_Screenshots//Reverse-Gravity.png?raw=true)
 
-## Install using GIT
+## Install
 
 * Locate your Sublime Text **"Packages"** directory by using the menu item `Preferences > Browse Packages...`
-* Load up that directory in Terminal app; for example: `cd /Users/Library/Application Support/Sublime Text 3/Packages`
-* Next, run this GIT command: `git clone https://github.com/scMarth/sublime-sidebar-themes.git`
-
-## Install manually
-
-* Use the [Download ZIP](https://github.com/scMarth/sublime-sidebar-themes/archive/master.zip) button from GitHub.
-* Locate your Sublime Text **"Packages"** directory by using the menu item `Preferences > Browse Packages...`
-* Unzip the archive and rename the folder `sublime-sidebar-themes` and place it in the **"Packages"** directory.
+* Create a folder in **"Packages"** called `sublime-sidebar-themes` and place the files in this directory there
 
 ## Activating the theme
 
