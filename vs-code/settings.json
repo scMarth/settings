@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Trixie",
+    "editor.fontSize": 12,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "files.eol": "\n",
+    "editor.rulers": [
+        72
+    ],
+    "window.titleBarStyle": "custom",
+    "editor.wordWrap": "on"
+}

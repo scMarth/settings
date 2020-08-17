@@ -1,0 +1,13 @@
+Logitech G Hub
+
+Gear Icon Settings (top right) >
+	always start after logging in checked
+	turn off lighting after user inactivity unchecked
+	allow games and applications to control illumination checked
+	share my usage data unchecked
+	send error logs automatically when g hub encounters issues checked
+	persistent profile = none
+	language = english
+	desktop notifications = enabled
+
+	enable automatic updates checked
