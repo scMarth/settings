@@ -1,1 +1,9 @@
 Driver name: Logitech Options
+
+This mouse easily wakes up the computer for some reason. To disable this mouse from waking up the computer, go to Device Manager > for every item under "Mice and other pointing devices," do the following: right-click > Properties > Power Management tab > uncheck Allow this device to wake the computer
+
+There may also be items under "Keyboards" that you have to disable the ability to wake the computer for..
+
+   https://windowsreport.com/prevent-mouse-waking-windows-10/
+
+      "In some cases, your USB keyboard and mouse might be shown as a single device in Device Manager. In fact, some users reported that they have several keyboards available in Device Manager and that one of those keyboards actually represents their mouse. This is a rather unusual behavior, and we assume that this issue is caused by a bad driver."

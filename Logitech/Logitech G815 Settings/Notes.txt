@@ -11,3 +11,7 @@ Gear Icon Settings (top right) >
 	desktop notifications = enabled
 
 	enable automatic updates checked
+
+Color Wave
+   Rate: 7200ms
+   Brightness: 100%
