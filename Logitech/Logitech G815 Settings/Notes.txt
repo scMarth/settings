@@ -13,5 +13,22 @@ Gear Icon Settings (top right) >
 	enable automatic updates checked
 
 Color Wave
-   Rate: 7200ms
+   Rate: 8000 ms
    Brightness: 100%
+
+
+
+PPG
+	FF4AB5
+		All
+
+	73B9FF
+		G Keys
+		Numbers
+		Arrow Keys
+
+	00CC99
+		Modifiers
+		F Keys
+		Logo
+
