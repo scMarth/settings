@@ -16,13 +16,12 @@ Color Wave
    Rate: 8000 ms
    Brightness: 100%
 
-
-
 PPG
 	FF4AB5
 		All
 
-	73B9FF
+	5F73FF (Browns)
+	73B9FF (Reds)
 		G Keys
 		Numbers
 		Arrow Keys
