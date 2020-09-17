@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=xIzyjYtmg6c
+
+Pair: Hold Share + PS button
+
+Control Panel > Devices and Printers > Right-cick Wireless Controller > Properties > Hardware > for every item:
+   click 'Properties' > Change settings > Power Management (if it has it) > Uncheck "Allow the computer to turn off this device to save power"
+
+There are also controller settings in Steam for turning off the controller that should be disabled.

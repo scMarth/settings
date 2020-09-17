@@ -16,18 +16,15 @@ Color Wave
    Rate: 8000 ms
    Brightness: 100%
 
-PPG
-	FF4AB5
-		All
+Pink:
+	Linear: FF4AB5
+	Tactile: DC4AFA
 
-	5F73FF (Browns)
-	73B9FF (Reds)
-		G Keys
-		Numbers
-		Arrow Keys
+Light-Blue:
+	Linear: 73B9FF
+	Tactile: 3C78FF
 
-	00CC99
-		Modifiers
-		F Keys
-		Logo
-
+Seafoam-Green:
+	Linear: 00CC99
+	Tactile: 00CCDC
+	Tactile Logo: 00CC99
