@@ -1,8 +1,13 @@
 https://www.youtube.com/watch?v=xIzyjYtmg6c
 
-Pair: Hold Share + PS button
+Reset controller if connection issues:
+   Press the small button behind controller w/ small pin 3-5 seconds then hold Share + PS button until light bar starts blinking. Then try re-pairing
 
 Control Panel > Devices and Printers > Right-cick Wireless Controller > Properties > Hardware > for every item:
    click 'Properties' > Change settings > Power Management (if it has it) > Uncheck "Allow the computer to turn off this device to save power"
 
 There are also controller settings in Steam for turning off the controller that should be disabled.
+
+Disconnects:
+   - if you've connected your controller via other devices via Bluetooth, try unpairing the controller via those devices.
+

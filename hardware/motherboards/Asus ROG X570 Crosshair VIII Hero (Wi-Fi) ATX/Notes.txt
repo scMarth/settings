@@ -1,0 +1,34 @@
+DEL or F2 to enter BIOS
+
+BIOS:
+   Onboard Devices Configuration > RGB LED lighting >
+      When system is in a working state
+         1.) Aura Off
+         2.) All On
+         3.) Stealth
+
+      Q-Code LED Function
+         1.) Disabled
+         2.) Disabled
+
+      When system is in sleep, hybernate or soft off states
+         2.) Stealth Mode
+
+      1: Power LEDs Blink during sleep
+      2: Motherboard LEDs on during sleep and Power Off
+      3: Small motherboard LED still on during sleep, power LED blinking during sleep
+
+
+Disable RGB LEDs during sleep:
+   
+   Get Aura (choose VERSION ....):
+      https://www.asus.com/campaign/aura/global/download.php
+
+   Motherboard > Sync at shutdown > Off > Apply
+
+Manual:
+   https://dlcdnets.asus.com/pub/ASUS/mb/SocketAM4/ROG_CROSSHAIR-VII-HERO_WI-FI/E13834_ROG_CROSSHAIR_VII_HERO_WI-FI_UM_WEB.pdf
+
+      Section 2.3 Motherboard rear and audio connections - In the picture at the beginning of this section, it shows that the WiFi-antenna also connects to the Bluetooth.
+
+      I was having issues with my PS4 controller disconnecting until I plugged in the Wi-Fi antenna. It seems that this antenna doubles as the Bluetooth antenna as well. Without the antenna, the Bluetooth connection seems unreliable / unstable.

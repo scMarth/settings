@@ -1,0 +1,24 @@
+problem:
+   alt + f4 doesn't work, and you have to press fn + alt + f4 instead
+
+fix:
+   https://www.dell.com/community/Laptops-General-Read-Only/FN-Key-disable-enable/td-p/3216657
+
+      "For users on Windows 10 based systems, there may be different Windows Mobility Center" options. For Precision 5520 users try pressing the "Fn" (Function) key with the Escape key, which is the function Lock feature."
+
+
+
+problem:
+   sound will not play through the 3.5mm audio jack
+
+fix:
+   https://www.dell.com/support/home/us/en/04/product-support/product/latitude-14-7400-laptop/drivers
+
+   download the updated 'Realtek High Definition Audio Driver' (this requires multiple restarts)
+
+   note: this stopped working after the computer was shut down and boot up again...
+
+
+
+https://www.dell.com/tc/business/p/latitude-14-7400-laptop/pd
+   Thunderbolt™ 3 with Power Delivery and DisplayPort

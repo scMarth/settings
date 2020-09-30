@@ -1,0 +1,8 @@
+Error Opening Recording Device. Error Code: 0 Success.
+   One possible cause for this is that a recording device (right click sound > sounds > recording tab) might be enabled when it should be disabled.
+
+Recording:
+   Windows WASAPI
+   Mic: Speakers (loopback)
+   2 (Stereo Recording Channel)
+   Speakers: Speakers

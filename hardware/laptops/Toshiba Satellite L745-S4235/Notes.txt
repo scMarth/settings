@@ -1,0 +1,52 @@
+Accessing BIOS:
+   F2
+
+Disassembly:
+   https://www.youtube.com/watch?v=2EFbVhafOz4
+
+Out of box storage:
+   Toshiba MK6475GSX
+   HDD2L02 B UL01 T
+   DC +5V 1.0A
+
+   8455MB
+   640GB
+
+   https://www.pc-specs.com/storage/Toshiba/MK6475GSX_640GB/204
+      Drive Type        Hard Disk Drive         This defines whether the drive is a large-capacity slower hard disk drive, a smaller-capacity but much faster solid-state drive, or a hybrid
+      Physical Size     2.5"                    The size of the drive dictates which drive bays it will fit into - generally a small drive will fit into any bigger drive bay with an adapter
+      Capacity          640GB                   The drive storage capacity is the limit to the size of files that can be stored
+      Release Date      30 Mar 2011             The later the release, the more likely manufacturer support will still be around
+      Cache Size        8MB                     The bigger the cache, the more data that can be temporarily stored for faster access
+      Power Required    5W                      HDDs should generally require very little power to run, and SSDs even less
+      RPM               5400 RPM                The higher the RPM, the faster the hard drive, and the faster stored data can be accessed
+      Drive Interface   SATA 3Gb/s (SATA II)    The interface is the type of motherboard connection and defines the bandwidth limit of the drive
+
+Out of box memory
+   6 GB total Memory
+
+   M471B5773DH0-CH9
+   SAMSUNG 2GB DDR3 1333MHZ PC3-10600 204-PIN CL9 Single Rank Non-ECC UNBUFFERED SODIMM Memory
+
+      computer memory size       2 GB
+      Item Dimensions            3.8 x 0.4 x 1.8 in
+      Memory Clock Speed         1,333 MHz
+      Memory Speed               1,333 MHz
+      Memory Storage Capacity    2 GB
+      Number of Items            —
+      Number of Pins             204
+      RAM Technology             DDR3 SDRAM
+      Size                       2 Gb
+      System RAM Type            DDR3 SDRAM
+
+      RAM                        2 GB DDR3 SDRAM
+      Memory Speed               1333 MHz
+
+      Brand Name                 Samsung
+      Series                     FBA_M471B5773DH0-CH9
+      Item model number          FBA_M471B5773DH0-CH9
+      Item Weight                1.44 ounces
+      Product Dimensions         3.8 x 0.4 x 1.8 inches
+      Item Dimensions L x W x H  3.8 x 0.4 x 1.8 inches
+      Computer Memory Type       DDR3 SDRAM
+      Voltage                    1.5 volts

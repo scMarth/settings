@@ -1,0 +1,28 @@
+https://b0xx.com/pages/b0xx-button-holds
+
+
+B0XX Button Holds
+These are the different B0XX Modes entered by holding the respective buttons WHILE plugging the controller in.  Toggles save the last mode used and swaps between them if button is held once again while plugging in.
+ 
+When plugged into anything:
+Start - Forces Melee mode and skip polling rate detection.
+CLeft + B - Enters/Forces Project M Mode (No other buttons allowed to be held on right side to reduce accidental mode entering)
+ 
+When plugged into a GC/Wii:
+Melee mode is entered by default.
+L - Toggles ModX/Y + L performing analog or digital shield (digital is the default and recommended mode)
+ 
+When plugged into a Wii U/Switch Adapter (Mayflash or Official only):
+Ultimate mode is entered by default.
+Left + Right - Toggles analog stick SOCD override reactivation.
+ 
+When plugged into a computer:
+Melee mode is entered by default
+ModX - Enters RoA mode.
+ModY - Enters Keyboard mode.
+ModY + ModX/A/CUp - Changes keyboard mode's Up, Down, Left, and Right buttons to arrow keys.  Pressing ModX/A/CUp changes which key(s) functions as the up key (multiple/any combination can be used).  Note: CUp will make Up function as Up arrow key (CUp is just used since it is easier to press in combination with ModY).  
+Example 1:  ModY + ModX = ModX is the up arrow key, and down, left and right are their respective arrow keys.  
+Example 2: ModY + ModX + CUp = ModX AND Up function as the up arrow key, and down, left and right are their respective arrow keys.
+ModY + CDown - Changes keyboard mode back to default abcde... mode (No arrow keys).
+
+
