@@ -26,3 +26,82 @@ Example 2: ModY + ModX + CUp = ModX AND Up function as the up arrow key, and dow
 ModY + CDown - Changes keyboard mode back to default abcde... mode (No arrow keys).
 
 
+You should wavedash with down + left / right + mod x + L
+
+
+Buffered method (2 examples):
+- When on a platform, dash, hold shield (L) and (while still holding Left/Right) press Down to shield drop.
+
+- When you land from an aerial, hold L or Z + Left/Right during L cancel lag, then press Down. It's preferable to use L in case your shield is hit.
+
+To shield drop from a standing position:
+- Slight shield tilt method: Shield with L + Mod X and hold Left/Right, release the mod after 4 or more frames, then press Down.
+
+- Straight down method: Shield with L + Mod X and hold Down, then release the mod after 4 or 5 frames (if you wait any longer to release Mod X it won't work).
+
+Note: Shield dropping from a light shield works the same as from a regular shield, only that you use LS/MS rather than L.
+
+To Sheild Drop from a stand-still:
+   Hold L+R > Press Left / Right > Let go of R while still holding the direction + L > Press Down
+
+
+Pivot > Stop:
+   Left > Right > Mod X (really fast) 
+
+
+Firefox Angles:
+   https://www.youtube.com/watch?v=_QPZMq7rgGs
+
+   Modifier X / Y / C up, down, left, right while holding up/down, left/right
+
+
+   upper right quadrant in order from straight up to horizontal:
+      up
+      up + right + mod y
+      up + right + c stick down + mod y
+      up + right + c stick left + mod y
+      up + right + c stick up + mod y
+      up + right + c stick right + mod y
+      up + right
+      up + right + c stick right + mod x
+      up + right + c up + mod x
+      up + right + c stick left + mod x
+      up + right + c stick down + mod x
+      up + right + mod x
+      right
+      
+The B0XX updater relies on avrdude.exe. If it isn't working in Windows 10, you can get this from downloading Adruino IDE. The default install path is:
+   C:\Program Files (x86)\Arduino\hardware\tools\avr\bin
+
+copy the files in that folder to the same path as where avrdude is in the B0XX updater
+      
+L-cancel with L
+
+For quick turnaroun bair Hax does:
+   dash away > shield > jump
+      
+To access the dpad hold down modX and modY simultaneously. The 4 C-stick directions will then transform into the D-pad.      
+
+vinceToday at 8:42 AM
+   for retreating turnaround SHL with fox/falco is it recommended to use Mod X to do the turnaround?
+
+CardB0XXToday at 8:42 AM
+   I just jump and "flick" the direction
+   (doesn't make sense to use that verb for a button, but a slight press of the direction I guess)
+   before pressing B
+
+vinceToday at 8:43 AM
+   ok thx
+
+peacecraftToday at 8:43 AM
+   ye no mod needed
+
+S+ HiroToday at 8:43 AM
+   you'd also lose drift by holding mod
+
+CardB0XXToday at 8:45 AM
+   @ec0vid turnaround short hop double laser/short hop laser could be a good addition to your FAQ !
+
+Wavedashing
+   - you can ledge dash by pressing L + Down + Left/Right at the same time (hold Mod X first)
+   - Seems like all that matters is if when you press L, you're also pressing Mod X + Down + Left/Right
