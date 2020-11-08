@@ -74,34 +74,3 @@ The B0XX updater relies on avrdude.exe. If it isn't working in Windows 10, you c
    C:\Program Files (x86)\Arduino\hardware\tools\avr\bin
 
 copy the files in that folder to the same path as where avrdude is in the B0XX updater
-      
-L-cancel with L
-
-For quick turnaroun bair Hax does:
-   dash away > shield > jump
-      
-To access the dpad hold down modX and modY simultaneously. The 4 C-stick directions will then transform into the D-pad.      
-
-vinceToday at 8:42 AM
-   for retreating turnaround SHL with fox/falco is it recommended to use Mod X to do the turnaround?
-
-CardB0XXToday at 8:42 AM
-   I just jump and "flick" the direction
-   (doesn't make sense to use that verb for a button, but a slight press of the direction I guess)
-   before pressing B
-
-vinceToday at 8:43 AM
-   ok thx
-
-peacecraftToday at 8:43 AM
-   ye no mod needed
-
-S+ HiroToday at 8:43 AM
-   you'd also lose drift by holding mod
-
-CardB0XXToday at 8:45 AM
-   @ec0vid turnaround short hop double laser/short hop laser could be a good addition to your FAQ !
-
-Wavedashing
-   - you can ledge dash by pressing L + Down + Left/Right at the same time (hold Mod X first)
-   - Seems like all that matters is if when you press L, you're also pressing Mod X + Down + Left/Right
