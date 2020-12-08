@@ -1,0 +1,1 @@
+If you can't connect it for calls, try unpairing the device, then holding the power button to clear devices, then re-pairing.

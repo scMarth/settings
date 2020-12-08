@@ -74,3 +74,9 @@ The B0XX updater relies on avrdude.exe. If it isn't working in Windows 10, you c
    C:\Program Files (x86)\Arduino\hardware\tools\avr\bin
 
 copy the files in that folder to the same path as where avrdude is in the B0XX updater
+
+Pivot:
+Any of the following methods:
+Left → Right → release Right on the next frame
+Left → Right → press Mod X or Mod Y on the next frame
+Left → Right → Down Right on the next frame
