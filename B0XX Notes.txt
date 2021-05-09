@@ -80,3 +80,8 @@ Any of the following methods:
 Left → Right → release Right on the next frame
 Left → Right → press Mod X or Mod Y on the next frame
 Left → Right → Down Right on the next frame
+
+
+
+
+Dash Back Out of Crouch: You are forced to release Down and press Back by frame 2.
