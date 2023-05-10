@@ -1,0 +1,51 @@
+             jklm
+abcd   h     nopq
+
+  ef        rt
+            su
+            v
+
+
+
+
+
+
+
+DBFZ:
+
+                        m
+                      l  h
+                        s
+
+
+hitbox:
+
+<- v  ->         squaare    triangle     R1    L1
+                   X            O        R2    L2
+        ^
+
+hitbox DBFZ
+<- v  ->         L    M     R1    L1
+                 S    H     R2    L2
+        ^
+
+
+
+
+
+
+
+LBX keyboard mode setup for Idol Showdown
+
+<-          B
+->          D
+^           E
+V           C
+L           J
+M           K
+H           O
+S           N
+Grab        P
+Collab      L
+Burst       Q
+Item        Space
