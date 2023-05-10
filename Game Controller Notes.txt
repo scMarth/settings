@@ -1,3 +1,5 @@
+LBX keyboard mode
+
              jklm
 abcd   h     nopq
 
@@ -5,18 +7,11 @@ abcd   h     nopq
             su
             v
 
-
-
-
-
-
-
 DBFZ:
 
                         m
                       l  h
                         s
-
 
 hitbox:
 
@@ -29,11 +24,9 @@ hitbox DBFZ
                  S    H     R2    L2
         ^
 
-
-
-
-
-
+using LBX with HayBox firmware with Steam:
+  - activate the LBX FGC mode (Hitbox mode) with Mod X + Start + Right
+  - enter Big Picture Mode and set up inputs for Controller with the LBX
 
 LBX keyboard mode setup for Idol Showdown
 
