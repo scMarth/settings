@@ -15,8 +15,8 @@ DBFZ:
 
 hitbox:
 
-<- v  ->         squaare    triangle     R1    L1
-                   X            O        R2    L2
+<- v  ->         squaare/X/L    triangle/Y/M     R1    L1
+                   X/A/S            O/B/H        R2    L2
         ^
 
 hitbox DBFZ
