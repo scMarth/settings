@@ -42,3 +42,11 @@ Grab        P
 Collab      L
 Burst       Q
 Item        Space
+
+Frame 1 Button holds
+  - Ultimate - Mod X + L
+  - Project + - Mod X + Left
+  - Melee  - Mod X + Down
+  - Generic FGC - Mod X + Right
+  - Keyboard - Mod X + Mod Y
+  - Brook - Start
