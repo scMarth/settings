@@ -7,13 +7,20 @@ abcd   h     nopq
             su
             v
 
+B0XX
+
+<- v  ->         R    Y     LS    MS
+                 B    Z     Z     Up
+    Mod X  
+     Mod Y
+
 DBFZ:
 
                         m
                       l  h
                         s
 
-hitbox:
+hitbox (right hand same as Quanba Obsidian):
 
 <- v  ->         squaare/X/L    triangle/Y/M     R1    L1
                    X/A/S            O/B/H        R2    L2

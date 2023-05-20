@@ -1,3 +1,35 @@
+Version 4.1 has a new set of button holds:
+
+R - Melee (Default always)
+Y - Ultimate
+LS - FGC
+MS - UNUSED
+
+B - Melee Magnitude Distribution Toggle
+Z - PM
+X - Smash 64 
+Up - q1/2 Notch Toggle
+Down - q3/4 Notch Toggle
+
+USB Modes
+A - RoA/Generic Mode
+CDown - N64 Force (Automatically swaps if console detected)
+CLeft - Native Switch
+CUp - DInput
+CRight - Brooks/MUX Mode
+Start - GC Force (Automatically swaps if console detected)
+Default - XInput
+
+MX - Basic N64
+MY - Keyboard Mode
+
+Left+Right on Start = Generic SOCD Toggle
+Z+A = PM "True" Z Toggle
+
+CDN + Start = Programming Mode
+
+
+
 https://b0xx.com/pages/b0xx-button-holds
 
 
