@@ -1,0 +1,14 @@
+Steam Notes:
+
+    Mod X + Start + L - Melee mode (default)
+        - can't press down and forward at the same time, but allows you to map the A / C stick buttons.
+    Mod X + Start + Left - Project M/Project+ mode
+        - can't map right in steam
+    Mod X + Start + Down - Ultimate mode
+        - can't map up (up button in Melee) to anything in steam
+    Mod X + Start + Right - FGC mode (Hitbox style fighting game layout)
+        - works but only hitbox buttons will work (C stick and A buttons seem disabled)
+    Mod X + Start + B - Rivals of Aether mode
+        - not detected as a controller in steam
+    Mod Y + Start + L - Default keyboard mode
+        - can't map as anything in steam in controller setup
