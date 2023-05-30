@@ -1,3 +1,7 @@
+Note: On a B0XX R2, if you are using software version 4.1 use the ini file in ini/B0XX-50923.ini otherwise the LS and MS buttons won't work in Melee. 
+If you are using HayBox software, use HayBox.ini
+
+
 Version 4.1 has a new set of button holds:
 
 R - Melee (Default always)
