@@ -1,1 +1,8 @@
 If you have a LBX with HayStack in FGC mode on Steam and another controller is a Switch Pro controller but the buttons are affecting each other, try unchecking "Use Nintendo Button Layout" for both devices.
+
+A B0XX and LBX working in Idol Showdown local 1v1:
+    - use an LBX with HayStack firmware
+    - plug in the LBX in FGC mode then configure buttons in big picture mode
+    - launch the game
+    - plug the B0XX in in keyboard mode
+    - configure buttons for P2 keyboard using the B0XX
