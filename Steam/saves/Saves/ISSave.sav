@@ -3,7 +3,9 @@
     "Holorogue_char_time-Aki": -1.0,
     "Holorogue_char_time-Botan": -1.0,
     "Holorogue_char_time-Korone": -1.0,
-    "Holorogue_char_time-Ayame": -1.0
+    "Holorogue_char_time-Ayame": -1.0,
+    "Holorogue_char_time-Coco": -1.0,
+    "Holorogue_char_time-Suisei": -1.0
   },
   "savedInts": {
     "Holorogue_fights-won": 112,
@@ -540,7 +542,13 @@
     "Holorogue_items_won-Acerola Juice": 1,
     "Holorogue_char_won-Ayame": 0,
     "Holorogue_char_lost-Ayame": 0,
-    "Holorogue_char_pekos-Ayame": 0
+    "Holorogue_char_pekos-Ayame": 0,
+    "Holorogue_char_won-Coco": 0,
+    "Holorogue_char_lost-Coco": 0,
+    "Holorogue_char_pekos-Coco": 0,
+    "Holorogue_char_won-Suisei": 0,
+    "Holorogue_char_lost-Suisei": 0,
+    "Holorogue_char_pekos-Suisei": 0
   },
   "savedStrings": {},
   "savedBools": {
@@ -650,6 +658,7 @@
     "Holorogue_items_unlocked-Hope Soda": true,
     "COSPLAY-UNLOCKED-Aki-4": true,
     "Final-Frontier-unlocked": true,
+    "COSPLAY-UNLOCKED-Aki-5": true,
     "COSPLAY-UNLOCKED-Aki-6": true,
     "Holorogue_items_held-Mugi Juice": true,
     "Holorogue_items_held-Light Armor": true,
@@ -670,6 +679,7 @@
     "Holorogue_items_seen-KFP Bucket": true,
     "Holorogue_items_held-Demon Lord's Umbrella": true,
     "COSPLAY-UNLOCKED-Botan-4": true,
+    "COSPLAY-UNLOCKED-Botan-5": true,
     "COSPLAY-UNLOCKED-Botan-6": true,
     "Holorogue_items_held-Avocados From Mekisco": true,
     "Holorogue_items_held-Sakura Shake": true,
@@ -681,12 +691,26 @@
     "Holorogue_items_held-Princess Crown": true,
     "Holorogue_items_held-Marriage Certificate": true,
     "COSPLAY-UNLOCKED-Korone-4": true,
+    "COSPLAY-UNLOCKED-Korone-5": true,
     "COSPLAY-UNLOCKED-Korone-6": true,
     "Holorogue_items_held-Fox Burger": true,
     "Holorogue_items_seen-K-Cup Breastplate": true,
     "Holorogue_items_seen-Muscle Milk": true,
     "Holorogue_items_held-Idol Dress": true,
     "COSPLAY-UNLOCKED-Ayame-4": true,
-    "COSPLAY-UNLOCKED-Ayame-6": true
+    "COSPLAY-UNLOCKED-Ayame-5": true,
+    "COSPLAY-UNLOCKED-Ayame-6": true,
+    "COSPLAY-UNLOCKED-Coco-4": true,
+    "COSPLAY-UNLOCKED-Coco-5": true,
+    "COSPLAY-UNLOCKED-Coco-6": true,
+    "COSPLAY-UNLOCKED-Fubuki-4": true,
+    "COSPLAY-UNLOCKED-Fubuki-5": true,
+    "COSPLAY-UNLOCKED-Fubuki-6": true,
+    "COSPLAY-UNLOCKED-Sora-4": true,
+    "COSPLAY-UNLOCKED-Sora-5": true,
+    "COSPLAY-UNLOCKED-Sora-6": true,
+    "COSPLAY-UNLOCKED-Suisei-4": true,
+    "COSPLAY-UNLOCKED-Suisei-5": true,
+    "COSPLAY-UNLOCKED-Suisei-6": true
   }
 }
