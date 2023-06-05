@@ -1,0 +1,10 @@
+https://store.steampowered.com/account/remotestorage
+
+    navigate to the desired game
+
+    play a bit on the computer with the save files that you want to keep
+
+    make sure that after playing, the save files in the cloud for that game are updated, if not:
+
+    right-click the game on all computers > properties > local files > verify integrity of game files...
+        do this on all computers, sometimes, one file or more files being corrupted will cause the cloud sync to fail for that device
