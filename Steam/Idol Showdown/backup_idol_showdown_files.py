@@ -1,10 +1,14 @@
 import shutil, os, sys
 
+import user_file
+
 workspace = os.getcwd()
 
 # https://store.steampowered.com/account/remotestorage
 
-src = r'C:\Users\<user>\AppData\LocalLow\BestoGameStudios\Idol Showdown'  # Replace with the source directory path
+src = r'C:\Users\{}\AppData\LocalLow\BestoGameStudios\Idol Showdown'.format(user_file.user_name)  # Replace with the source directory path
+print(src)
+sys.exit()
 dst = workspace + r'\Idol Showdown'  # Replace with the destination directory path
 
 dst_num = -1

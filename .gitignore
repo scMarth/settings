@@ -1,2 +1,4 @@
 Steam/Idol Showdown/Idol Showdown-*
 Steam/Idol Showdown/Idol Showdown[0-9]*
+Steam/Idol Showdown/user_file.py
+*.pyc
