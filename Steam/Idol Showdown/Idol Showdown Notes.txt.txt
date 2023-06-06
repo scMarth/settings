@@ -1,0 +1,53 @@
+items needed:
+
+G-Penguin
+Peach Blossom Hairpin
+Blue Axolotl
+Muscle Milk
+Holo Chips
+
+
+Teacher's Pet:
+    Choco-sensei asks you to take a general knowledge quiz! If you get it right, there may be a reward, but if you don't...
+        Let's try it!
+            Smallest prefecture in Japan?
+                Kagawa!
+                    Chocolate Kiss + 300 pekos
+            What day is April 29th in Japan?
+                Showa day
+                    Chocolate Kiss + 300 pekos
+
+
+
+Devilish Prank: Towa walks up to you, carrying a bag of money you've never seen before. She says she found it lying on the floor close by, and is wondering if it's yours.
+
+    Claim the bag
+        - got Bibi Replica (+more damage every second you go unharmed)
+        -
+
+    Tell the truth!
+        - + 100 pekos
+
+
+Omikuji
+    Push the button
+        - You pulled a four. That's a big curse... a wave of intense dreaad washes over you, making you feel weak.
+
+Impersonation Test:
+    1 "I'm the real Houshou Marine"
+        It was Kanata: + 30 max health
+    2 "I know you'll choose me! I'll trust you!"
+    3 "Ahooy! I'm the actual one!"
+    4 "You love senchou, don't you? It's me!"
+        4th choice = Matsuri / + 100 health
+
+Smithy Encounter:
+    Kaela asks to study one of your accessories
+        + extra Onion
+    
+
+Nut-rition: The witch of nuts, Ayunda, visits you in the dead of night! She asks you what your favorite nut is.
+    Walnuts: you now take less damage from enemy attacks
+    Cashew nuts: those are her favorite! regain all health, deal more damage, enemies take less damage
+    Chestnuts: you will now deal more damage to enemies
+    Coconuts: she gets disappointed (no effect)

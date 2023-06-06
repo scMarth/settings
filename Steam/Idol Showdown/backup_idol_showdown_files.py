@@ -15,11 +15,11 @@ for folder in os.listdir(workspace):
     if not os.path.isdir(folder_path):
         continue
     else:
-        if 'Idol Showdown' not in folder_path:
+        if r'Idol Showdown\Idol Showdown' not in folder_path:
             continue
 
     print('folder_path: {}'.format(folder_path))
-    number = folder_path.split('Showdown')[1]
+    number = folder_path.split(r'Idol Showdown\Idol Showdown')[1]
     if number:
         number = int(number)
 
