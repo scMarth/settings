@@ -1,6 +1,171 @@
-items needed:
+========================================================================
+= Collection
+========================================================================
+
+Page 1
+    Gladiator Chains
+    Glove Cloak
+    Light Armor
+    Plastic Ball
+
+    Baby Bottle
+    Chocolate Kiss
+        can get from Choco-sensei's event "Teacher's Pet"
+    Chopping Board
+    Garlic
+
+    Holo Mic
+    Hour Sword
+    Kotatsu
+    Marriage Certificate
+
+Page 2
+    Minute Sword
+    Onion
+    Pirate's Hat
+    Polneu
+
+    Shuba Duck
+    Spanner
+    Suisei Train
+    Divination Card Deck
+
+    Watermelon Helmet
+    Bibi Replica
+    Breaddog
+    ??? Lose a run 20 times to unlock
+
+Page 3
+    Circus Instrument Box
+    Decaying Yubi
+    Demon Lord's Umbrella
+    Golden YAGOO
+
+    Hannya Mask
+    Idol Dress
+    Orca Mask
+    Princess Crown
+
+    Sacrificial Nousagi
+    Secret Society Shades
+    Turkey's Quill
+    Zombie Sword
+
+Page 4
+> ??? - grab an opponent 5 times in a single fight to unlock
+    Anya
+    Atlantis' Bane
+    Black Guitar
+
+    Blacksmith's Hammer
+> ??? - receive from an event to unlock
+    Death Scythe
+    Dragon Amulet
+
+    Glasses
+> G-Penguin
+    Hitodama
+    Holo Cards
+
+Page 5
+    Horse Bike
+    K-Cup Breastplate
+    Kintsuba
+    SSRB
+
+    AO-Chan
+    Big Red Heart Locket
+    Ebifrion
+    Hi-Spec Battery
+
+    Jyako-sama
+> Peach Blossom Hairpin
+    Plugin-type Asacoco
+    Shackles of Darkness
+
+Page 6
+    Spider Hotpot
+    Watoto Shroom
+    Axolotl
+> ??? discover this item to unlock more information
+
+    Ame Milk
+    Fox Burger
+    Fruity Galaxy
+    Makai Melon Soda
+
+    Onigiri
+    Papa Pizza
+    Peko Carrot
+> ??? Receive from an event to unlock
+
+Page 7
+    Pokobe Soup
+    Sakura Shake
+    Avacados From Mekisco
+> ??? receive from an event to unlock
+
+    Definitely Not Poison
+    Elfriend Tea
+    Golden Apple
+> ??? Summon Risu's collab more than 3 times in a single fight to unlock
+
+    Mugi Juice
+> Muscle Milk
+    Teh Martabat
+    Tropical Marine
+
+Page 8
+    Wata Chips
+    Acerola Juice
+    Hope Soda
+    KFP Bucket
+
+> ??? Discover this item to unlock more information
+    Miso Soup
+    Pedas Manja
+    Tokino Soda
+
+    Yuki-Yu-Zuki
+> ??? win a fight after using the item "definitely not poison" to unlock
+    Copium
+    Dark Matter Pancake
+
+Page 9
+    Dr. Oopsie
+    Holo Chips
+    Sandwich Shake
+    Ui Beam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+= Items Needed
+========================================================================
 
 https://steamlists.com/idol-showdown-virtual-frontier-collectible-items/
+
 
 Angelic Halo : unlock by grabbing 5 times in a single fight (trying it on high HP dummies would be easy)
 Pioneer Water : got it from AZKi event by picking the song that gives common snack
@@ -14,6 +179,25 @@ Muscle Milk : unlock by winning 5 fights
 Zecret Agent Bazo (maybe the most op snak ever)
 Holo Chips
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+= Events
+========================================================================
 
 Teacher's Pet
     Choco-sensei asks you to take a general knowledge quiz! If you get it right, there may be a reward, but if you don't...
