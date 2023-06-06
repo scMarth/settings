@@ -7,23 +7,26 @@ Muscle Milk
 Holo Chips
 
 
-Teacher's Pet:
+Teacher's Pet
     Choco-sensei asks you to take a general knowledge quiz! If you get it right, there may be a reward, but if you don't...
+
         Let's try it!
-            Smallest prefecture in Japan?
-                Kagawa!
-                    Chocolate Kiss + 300 pekos
-            What day is April 29th in Japan?
-                Showa day
-                    Chocolate Kiss + 300 pekos
+            Q. Smallest prefecture in Japan?
+            A. Kagawa!
+                Chocolate Kiss + 300 pekos
+
+            Q. What day is April 29th in Japan?
+            A. Showa day
+                Chocolate Kiss + 300 pekos
 
 
 
-Devilish Prank: Towa walks up to you, carrying a bag of money you've never seen before. She says she found it lying on the floor close by, and is wondering if it's yours.
+Devilish Prank
+    Towa walks up to you, carrying a bag of money you've never seen before. She says she found it lying on the floor close by, and is wondering if it's yours.
 
     Claim the bag
         - got Bibi Replica (+more damage every second you go unharmed)
-        -
+        - 
 
     Tell the truth!
         - + 100 pekos
@@ -46,8 +49,10 @@ Smithy Encounter:
         + extra Onion
     
 
-Nut-rition: The witch of nuts, Ayunda, visits you in the dead of night! She asks you what your favorite nut is.
-    Walnuts: you now take less damage from enemy attacks
-    Cashew nuts: those are her favorite! regain all health, deal more damage, enemies take less damage
-    Chestnuts: you will now deal more damage to enemies
-    Coconuts: she gets disappointed (no effect)
+Nut-rition:
+    The witch of nuts, Ayunda, visits you in the dead of night! She asks you what your favorite nut is.
+
+        Walnuts: you now take less damage from enemy attacks
+        Cashew nuts: those are her favorite! regain all health, deal more damage, enemies take less damage
+        Chestnuts: you will now deal more damage to enemies
+        Coconuts: she gets disappointed (no effect)
