@@ -33,7 +33,7 @@ Page 2
     Watermelon Helmet
     Bibi Replica
     Breaddog
-    ??? Lose a run 20 times to unlock
+--> ??? Lose a run 20 times to unlock
 
 Page 3
     Circus Instrument Box
@@ -59,7 +59,7 @@ Page 4
     Black Guitar
 
     Blacksmith's Hammer
-> ??? - receive from an event to unlock
+--> ??? - receive from an event to unlock
     Death Scythe
     Dragon Amulet
 
@@ -88,7 +88,7 @@ Page 6
     Spider Hotpot
     Watoto Shroom
     Axolotl
-> ??? discover this item to unlock more information
+--> ??? discover this item to unlock more information
 
     Ame Milk
     Fox Burger
@@ -98,18 +98,21 @@ Page 6
     Onigiri
     Papa Pizza
     Peko Carrot
-> ??? Receive from an event to unlock
+    Pioneer Water
+        get it from AZKi event by picking the song that gives common snack
 
 Page 7
     Pokobe Soup
     Sakura Shake
-    Avacados From Mekisco
-> ??? receive from an event to unlock
+    Avocados From Mekisco
+    Chaos Cheese
+        unlock by getting a 6 on Hakos Baelz dice event
 
     Definitely Not Poison
     Elfriend Tea
     Golden Apple
-> ??? Summon Risu's collab more than 3 times in a single fight to unlock
+    Kacang Ajaib
+        unlock by using Risu collab move 3 times in a single fight
 
     Mugi Juice
     Muscle Milk
@@ -122,13 +125,13 @@ Page 8
     Hope Soda
     KFP Bucket
 
-> Madu Bulan
+    Madu Bulan
     Miso Soup
     Pedas Manja
     Tokino Soda
 
     Yuki-Yu-Zuki
-> ??? win a fight after using the item "definitely not poison" to unlock
+--> ??? win a fight after using the item "definitely not poison" to unlock
     Copium
     Dark Matter Pancake
 
@@ -167,11 +170,11 @@ Page 9
 
 https://steamlists.com/idol-showdown-virtual-frontier-collectible-items/
 
-Pioneer Water : got it from AZKi event by picking the song that gives common snack
-Chaos Cheese : unlock by getting a 6 on Hakos Baelz dice event
-Kacang Ajaib : unlock by using Risu collab move 3 times in a single fight
-Madu Bulan
+
+
+
 Blue Axolotl
+    I had 3 Turkey Quills, spent around 280+ pekos, and still didn't get one  
 Zecret Agent Bazo (maybe the most op snak ever)
 
 
@@ -205,7 +208,23 @@ Teacher's Pet
             A. Showa day
                 Chocolate Kiss + 300 pekos
 
+            Q. Sum of interior angles of a triangle
+            A. 180
+                Chocolate Kiss + 300 pekos
 
+            Q. What day is May 4th in Japan?
+            A. Greenery Day!
+                Chocolate Kiss + 300 pekos
+
+Sing-Along
+    AZKi invites you to a short karaoke session! What do you pick from the setlist?
+        WHiTE - A cute pop song [Restore 10% of your health.]
+        BLaCK - An intense metal song. [Lose 15% health but gain a rare snack.]
+        ReD - A slow groovy song. [Gain a common snack.]
+            Pioneer Water
+
+Play Dice
+    You rolled a six. JACKPOT! Bae celebrates your victory, leaving behind a mountain of rewards! [You got 100 pekos, Hitodama, Anya, and Chaos Cheese!!!] <-- note that I had 3 turkey quills when I did this
 
 Devilish Prank
     Towa walks up to you, carrying a bag of money you've never seen before. She says she found it lying on the floor close by, and is wondering if it's yours.
@@ -222,18 +241,29 @@ Omikuji
     Push the button
         - You pulled a four. That's a big curse... a wave of intense dreaad washes over you, making you feel weak.
 
-Impersonation Test:
+
+Miko Shrine Puush button
+    lose 50 from max health
+
+
+Impersonation Test
     1 "I'm the real Houshou Marine"
         It was Kanata: + 30 max health
     2 "I know you'll choose me! I'll trust you!"
+        Real Marine: + 60 pekos
     3 "Ahooy! I'm the actual one!"
+        Fubuki: gives you a Fox Burger
     4 "You love senchou, don't you? It's me!"
         4th choice = Matsuri / + 100 health
 
 Smithy Encounter:
     Kaela asks to study one of your accessories
         + extra Onion
-    
+
+Interrogation
+    You wake up strapped to a chair. Zeta is standing over you menacingly... She grabs three of your valuables, and demands you tell her which is your favorite.
+        (what you pick you will lose)
+
 
 Nut-rition:
     The witch of nuts, Ayunda, visits you in the dead of night! She asks you what your favorite nut is.
