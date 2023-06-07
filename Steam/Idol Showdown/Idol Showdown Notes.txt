@@ -233,6 +233,10 @@ Totsumachi
             - 20% of health
         Maybe not...
 
+The Greatest Fire Disaster
+    You trip over a bucket of lava with a sign on it reading, "Property of Miko. Do not touch, nye!".
+    Some of your items fall into the resulting puddle. You can't save them all, and will have to leave one behind...
+
 Seal of Matrimony
     Marry Nene
         1x
@@ -337,3 +341,7 @@ Nut-rition:
         Cashew nuts: those are her favorite! regain all health, deal more damage, enemies take less damage
         Chestnuts: you will now deal more damage to enemies
         Coconuts: she gets disappointed (no effect)
+
+Place Your Bets
+    Okayu
+        You gained 50 pekos
