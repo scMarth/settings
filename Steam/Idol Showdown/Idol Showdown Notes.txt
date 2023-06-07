@@ -33,7 +33,8 @@ Page 2
     Watermelon Helmet
     Bibi Replica
     Breaddog
---> ??? Lose a run 20 times to unlock
+    Butterfly Hair Clip
+        Lose a run 20 times to unlock
 
 Page 3
     Circus Instrument Box
@@ -59,7 +60,8 @@ Page 4
     Black Guitar
 
     Blacksmith's Hammer
---> ??? - receive from an event to unlock
+    Coyote's Chemistry Kit
+        donate all items Koyori's Experiment
     Death Scythe
     Dragon Amulet
 
@@ -223,8 +225,45 @@ Sing-Along
         ReD - A slow groovy song. [Gain a common snack.]
             Pioneer Water
 
+
+Totsumachi
+    You're thinking of hosting a call-in stream, but aren't sure if you should.
+        Let's do it!
+            + Shackles of Darkness
+            - 20% of health
+        Maybe not...
+
+Seal of Matrimony
+    Marry Nene
+        1x
+            + Marriage Certificate, lost a third of your pekos
+        2x
+        3x
+        Do not marry Nene
+
+Koyori's Experiment
+    You happen upon a chemistry lab where Koyori is hard at work. She's looking for edible items to perform experiments on, and says she'll pay you for them.
+        Donate one.
+
+        Donate two.
+            You lost Kacang Ajaib and Chaos Cheese, but gained 200 pekos.
+        Donate them all!
+            gained 400 pekos and Coyote's Chemistry Kit
+        I'll pass.
+            Nothing happens
+
+Officer Subaru
+    You've been stopped by the Oozora Police! They're fining you for breaking a law you've never even heard of before.
+        Pay up. [Lose 25% of your pekos.]
+        Come up with an alibi
+            you lost 50% of your pekos
+        Run!
+
 Play Dice
-    You rolled a six. JACKPOT! Bae celebrates your victory, leaving behind a mountain of rewards! [You got 100 pekos, Hitodama, Anya, and Chaos Cheese!!!] <-- note that I had 3 turkey quills when I did this
+    You rolled a six. JACKPOT! Bae celebrates your victory, leaving behind a mountain of rewards!
+        [You got 100 pekos, Hitodama, Anya, and Chaos Cheese!!!] <-- note that I had 3 turkey quills when I did this
+        [100 pekos, Hitodama, Death Scythe, Chaos Cheese]
+        [100 pekos, Glasses, SSRB, Chaos Cheese]
 
 Devilish Prank
     Towa walks up to you, carrying a bag of money you've never seen before. She says she found it lying on the floor close by, and is wondering if it's yours.
@@ -238,23 +277,33 @@ Devilish Prank
 
 
 Omikuji
-    Push the button
-        - You pulled a four. That's a big curse... a wave of intense dreaad washes over you, making you feel weak.
+    You find yourself in front of a shrine. At the front is a prominently displayed button, with a sign instructing you to press for a fortune.
+        Press the button
+            You pulled a one. [gained 50 health]
 
-
-Miko Shrine Puush button
-    lose 50 from max health
-
+ASMR
+    listen to the tape
+        gained 10% of your health
 
 Impersonation Test
-    1 "I'm the real Houshou Marine"
-        It was Kanata: + 30 max health
-    2 "I know you'll choose me! I'll trust you!"
-        Real Marine: + 60 pekos
-    3 "Ahooy! I'm the actual one!"
-        Fubuki: gives you a Fox Burger
-    4 "You love senchou, don't you? It's me!"
-        4th choice = Matsuri / + 100 health
+    You proceed toward a large curtain with four people behind it. They're all claming to be Marine... which one could it be?
+        1 "I'm the real Houshou Marine"
+            It was Kanata: + 30 max health
+        2 "I know you'll choose me! I'll trust you!"
+            Real Marine: + 60 pekos
+        3 "Ahooy! I'm the actual one!"
+            Fubuki: gives you a Fox Burger
+        4 "You love senchou, don't you? It's me!"
+            4th choice = Matsuri / + 100 health
+
+Fox Burger Country
+    Uber Sheep has released a limited time offer to deliver a US-style fast food to the virtual world for free. Order something from the menu?
+        Get a burger!
+        Order a beverage.
+            Tokino Soda
+            Dr. Oopsie
+            Makai Melon Soda
+        I'm not hungry
 
 Smithy Encounter:
     Kaela asks to study one of your accessories
@@ -264,6 +313,22 @@ Interrogation
     You wake up strapped to a chair. Zeta is standing over you menacingly... She grabs three of your valuables, and demands you tell her which is your favorite.
         (what you pick you will lose)
 
+Witch's Cauldron
+    You come upon Shion hard at work
+        Buy a potion
+            Papa Pizza
+        Buy two potions
+        Buy three potions
+            [Holo Chips, Chaos Cheese, Teh Martabat]
+        Don't buy any
+            nothing happens
+
+Janken
+    Watame challenges you to a game of Janken! Tsunomaki, tsunomaki, tsunomaki, tsunomaki...
+        Rock!
+        Paper!
+        Scissors!
+            you lost half your pekos
 
 Nut-rition:
     The witch of nuts, Ayunda, visits you in the dead of night! She asks you what your favorite nut is.
