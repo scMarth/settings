@@ -9,8 +9,8 @@
     "Holorogue_char_time-Fubuki": -1.0
   },
   "savedInts": {
-    "Holorogue_fights-won": 568,
-    "Holorogue_fights-lost": 26,
+    "Holorogue_fights-won": 609,
+    "Holorogue_fights-lost": 28,
     "TOP-SCORE-Quick Fight-SPEED-Aki": 3,
     "TOP-SCORE-Quick Fight-DEFENSE-Aki": 4,
     "TOP-SCORE-Quick Fight-VARIETY-Aki": 3,
@@ -143,7 +143,7 @@
     "TOP-SCORE-Comets Straddle the Night-DEFENSE-Aki": 1,
     "TOP-SCORE-Comets Straddle the Night-VARIETY-Aki": 2,
     "TOP-SCORE-Comets Straddle the Night-COMBO-Aki": 1,
-    "TOP-SCORE-Comets Straddle the Night-OVERALL-Aki": 1,
+    "TOP-SCORE-Comets Straddle the Night-OVERALL-Aki": 2,
     "TOP-SCORE-Glass Cannon-SPEED-Aki": 4,
     "TOP-SCORE-Glass Cannon-DEFENSE-Aki": 4,
     "TOP-SCORE-Glass Cannon-VARIETY-Aki": 2,
@@ -571,7 +571,7 @@
     "TOP-SCORE-Missile-COMBO-Aki": 4,
     "TOP-SCORE-Missile-OVERALL-Aki": 3,
     "TOP-SCORE-Friends Forever-SPEED-Aki": 3,
-    "TOP-SCORE-Friends Forever-DEFENSE-Aki": 1,
+    "TOP-SCORE-Friends Forever-DEFENSE-Aki": 4,
     "TOP-SCORE-Friends Forever-VARIETY-Aki": 3,
     "TOP-SCORE-Friends Forever-COMBO-Aki": 4,
     "TOP-SCORE-Friends Forever-OVERALL-Aki": 3,
@@ -636,7 +636,7 @@
     "TOP-SCORE-Chilly Confrontation-VARIETY-Aki": 3,
     "TOP-SCORE-Chilly Confrontation-COMBO-Aki": 4,
     "TOP-SCORE-Chilly Confrontation-OVERALL-Aki": 3,
-    "TOP-SCORE-Training Dummy's Revenge-SPEED-Aki": 2,
+    "TOP-SCORE-Training Dummy's Revenge-SPEED-Aki": 3,
     "TOP-SCORE-Training Dummy's Revenge-DEFENSE-Aki": 4,
     "TOP-SCORE-Training Dummy's Revenge-VARIETY-Aki": 3,
     "TOP-SCORE-Training Dummy's Revenge-COMBO-Aki": 4,
@@ -896,7 +896,7 @@
     "Holorogue_items_seen-Madu Bulan": true,
     "Holorogue_items_seen-Miso Soup": false,
     "Holorogue_items_seen-Pedas Manja": true,
-    "Holorogue_items_seen-Zecret Agent Bazo": false,
+    "Holorogue_items_seen-Zecret Agent Bazo": true,
     "Holorogue_items_seen-Copium": true,
     "Holorogue_items_seen-Dark Matter Pancake": true,
     "Holorogue_items_seen-Dr. Oopsie": true,
@@ -966,6 +966,8 @@
     "Holorogue_items_unlocked-Coyote's Chemistry Kit": true,
     "Holorogue_items_unlocked-Tropical Marine": true,
     "Holorogue_items_held-Butterfly Hair Clip": true,
-    "Holorogue_items_held-Blue Axolotl": true
+    "Holorogue_items_held-Blue Axolotl": true,
+    "Holorogue_items_unlocked-Zecret Agent Bazo": true,
+    "Holorogue_items_held-Zecret Agent Bazo": true
   }
 }
