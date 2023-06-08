@@ -1,4 +1,17 @@
 ========================================================================
+= Virtual Frontier Notes
+========================================================================
+
+6/7/23 - the item button is bugged for Gamepads and can't be mapped. If you want to use items:
+    - unplug all controllers so that the main controller is just the keyboard
+    - go to settings and reset default for the P1 keyboard settings
+    - test that items work in the Virtual Frontier tutorial
+    - plug in your gamepad
+    - when you get to a point that you want to use an item, e.g. "Definitely Not Poison", pause then unplug the gamepad
+    - use the item with the keyboard, just as you did in the Virtual Frontier tutorial then pause
+    - plug in your gamepad again and continue
+
+========================================================================
 = Collection
 ========================================================================
 
@@ -90,7 +103,7 @@ Page 6
     Spider Hotpot
     Watoto Shroom
     Axolotl
---> ??? discover this item to unlock more information
+    Blue Axolotl
 
     Ame Milk
     Fox Burger
@@ -133,7 +146,7 @@ Page 8
     Tokino Soda
 
     Yuki-Yu-Zuki
---> ??? win a fight after using the item "definitely not poison" to unlock
+    Zecret Agent Bazo
     Copium
     Dark Matter Pancake
 
@@ -143,55 +156,7 @@ Page 9
     Sandwich Shake
     Ui Beam
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-========================================================================
-= Items Needed
-========================================================================
-
 https://steamlists.com/idol-showdown-virtual-frontier-collectible-items/
-
-
-
-
-Blue Axolotl
-    I had 3 Turkey Quills, spent around 280+ pekos, and still didn't get one  
-Zecret Agent Bazo (maybe the most op snak ever)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ========================================================================
