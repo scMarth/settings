@@ -217,6 +217,10 @@ Teacher's Pet
             Q. What day is May 4th in Japan?
             A. Greenery Day!
                 Chocolate Kiss + 300 pekos
+            
+            Q. Who is the person on the 5000 yen bill?
+            A. Ichiyo Higuchi
+                Chocolate Kiss + 300 pekos
 
 Sing-Along
     AZKi invites you to a short karaoke session! What do you pick from the setlist?
@@ -231,6 +235,7 @@ Totsumachi
         Let's do it!
             + Shackles of Darkness
             - 20% of health
+            nothing happens
         Maybe not...
 
 The Greatest Fire Disaster
@@ -262,12 +267,15 @@ Officer Subaru
         Come up with an alibi
             you lost 50% of your pekos
         Run!
+            you list 10% of your health
 
 Play Dice
     You rolled a six. JACKPOT! Bae celebrates your victory, leaving behind a mountain of rewards!
         [You got 100 pekos, Hitodama, Anya, and Chaos Cheese!!!] <-- note that I had 3 turkey quills when I did this
         [100 pekos, Hitodama, Death Scythe, Chaos Cheese]
         [100 pekos, Glasses, SSRB, Chaos Cheese]
+    You rolled a five.
+        [Breaddog, Chaos Cheese]
 
 Devilish Prank
     Towa walks up to you, carrying a bag of money you've never seen before. She says she found it lying on the floor close by, and is wondering if it's yours.
@@ -331,6 +339,7 @@ Janken
     Watame challenges you to a game of Janken! Tsunomaki, tsunomaki, tsunomaki, tsunomaki...
         Rock!
         Paper!
+            lost half of your pekos
         Scissors!
             you lost half your pekos
 
