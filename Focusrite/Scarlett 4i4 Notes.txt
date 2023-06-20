@@ -1,0 +1,5 @@
+Datasheet: https://fael-downloads-prod.focusrite.com/customer/prod/downloads/Scarlett%204i4%203rd%20Gen%20User%20Guide%20V2.pdf
+
+Download Focusrite Control for this device
+Plug in USB-C to PC / mic / headphones > reset to default in Focusrite Control then you should be able to hear your mic from the headphones
+
