@@ -1,0 +1,12 @@
+Switch from 1.03 to Slippi:
+    right-click game > Gecko codes > check:
+        Required: General Codes
+        Required: Slippi Recording
+        Required: Slippi Online
+
+    config > Gamecube > device settings > Slot A = Slippi
+
+Switch from Slippi to 1.03:
+    right-click game > Gecko codes > uncheck everything
+
+    config > Gamecube > device settings > Slot A = GCI Folder
