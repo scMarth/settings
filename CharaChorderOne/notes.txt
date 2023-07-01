@@ -3,4 +3,4 @@ Migrating to CCOS:
 
 CCOS Manager: https://www.iq-eq.io/#/manager
 
-https://charachorder-config.com/
+Manage input mappings (Home, End, etc.) https://charachorder-config.com/
