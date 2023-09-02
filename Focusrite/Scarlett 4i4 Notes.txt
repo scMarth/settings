@@ -3,3 +3,4 @@ Datasheet: https://fael-downloads-prod.focusrite.com/customer/prod/downloads/Sca
 Download Focusrite Control for this device
 Plug in USB-C to PC / mic / headphones > reset to default in Focusrite Control then you should be able to hear your mic from the headphones
 
+If you are recording on OBS and you are only getting audio from one side (either only left or only right), right-click the sound in the bottom right in Windows > sound settings > for input, select analogue 1 + 2 then press the '>' > for input settings format, select 1 channel (studio quality)
