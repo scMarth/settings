@@ -1,0 +1,15 @@
+connect via 2.4G connection
+    take out the 2.4G receiver
+    turn on the mouse
+    put the receiver into the computer USB port
+
+bluetooth connection
+    turn on the mouse
+    press the channel switch button to switch to bluetooth
+    long press the switch button for 3-5 seconds, the LED light flashes rapidly and the mouse enters Bluetooth pairing mode
+    click "bluetooth devices" on the computer
+    click "add or remove bluetooth devices"
+    search for the Nuela mouse and click to pair
+    if the pairing is successful, the LED lights up for 5 seconds then goes out
+
+apparently no drivers are required
