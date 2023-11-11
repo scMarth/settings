@@ -13,3 +13,12 @@ bluetooth connection
     if the pairing is successful, the LED lights up for 5 seconds then goes out
 
 apparently no drivers are required
+
+there are 5 DPI level settings, the blue light flashes different number of times based on DPI:
+    1 200
+    2 400
+    3 800
+    4 1200
+    5 1600
+
+you can use your nail to pry out / take out the receiver, there is a little bump at the top of the receiever
