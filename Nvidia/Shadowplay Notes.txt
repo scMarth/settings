@@ -1,0 +1,3 @@
+alt + Z bring up nvidia settings
+
+alt + f10 = save last x time in recordings (however long you set the recording length to)

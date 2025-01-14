@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=Q9iaVsqtYWY
+Fix DPI changing on idle
+    Open Logitech G Hub
+    delete all DPI settings except desired setting (there should be only 1 pointer that you have to keep, the rest can be deleted)
+    set to on board memory mode
+    set memory slot 1 to default
+    2700 DPI
+
