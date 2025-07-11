@@ -1,0 +1,26 @@
+connect via 2.4G connection
+    take out the 2.4G receiver
+    turn on the mouse
+    put the receiver into the computer USB port
+
+bluetooth connection
+    turn on the mouse
+    press the channel switch button to switch to bluetooth
+    long press the switch button for 3-5 seconds, the LED light flashes rapidly and the mouse enters Bluetooth pairing mode
+    click "bluetooth devices" on the computer
+    click "add or remove bluetooth devices"
+    search for the Nuela mouse and click to pair
+    if the pairing is successful, the LED lights up for 5 seconds then goes out
+
+apparently no drivers are required
+
+there are 5 DPI level settings, the blue light flashes different number of times based on DPI:
+    1 200
+    2 400
+    3 800
+    4 1200
+    5 1600
+
+you can use your nail to pry out / take out the receiver, there is a little bump at the top of the receiever
+
+when the battery is low, the indicator glows blue. The charging indicator will glow red while the mouse is charging. the indicator turns green when fully charged.

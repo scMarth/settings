@@ -8,3 +8,6 @@ https://store.steampowered.com/account/remotestorage
 
     right-click the game on all computers > properties > local files > verify integrity of game files...
         do this on all computers, sometimes, one file or more files being corrupted will cause the cloud sync to fail for that device
+
+If Steam DLC pop-ups aren't working, check if Steam Overlay is enabled:
+    steam > settings > in-game in the left sidebar > enable Steam Overlay

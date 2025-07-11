@@ -1,0 +1,16 @@
+Issue: in Windows 10 laptop bluetooth settings, it was only connecting music, but no voice
+
+    usually issue is fixed by simply turning off the headphones and turning them back on to re-pair
+
+    steps to fix:
+        - pair headset with Android device (voice and music still connecting on Android device)
+        - download Bose app, then install latest updates for the headset from the app
+        - update took maybe 30 minutes
+        - once update is finished, turn off bluetooth headset
+        - in windows 10 bluetooth settings, remove "Bose NC 700 HP" device
+        - restart windows 10 machine
+        - open bluetooth and other devices
+        - hold power button on bose headset to put in pairing mode
+        - in windows 10, add bluetooth device
+        - add bose 700r
+        - following above steps, finally connected music and voice

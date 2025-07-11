@@ -1,0 +1,5 @@
+if you need to install TurboTax, but it is saying that MSVCP140.dll not found, and are still getting that error even when installing the x64 version of Microsoft Visual C++ Redistributable package, try installing the x86 version:
+
+    https://ttlc.intuit.com/community/taxes/discussion/deluxe-cd-from-amazon-cannot-install-windows-msvcp140-dll-not-found/00/3159106
+
+        You need to install the x86 version of the Microsoft Visual C++ Redistributable package that the TurboTax developers forgot to include in the TurboTax installation software.

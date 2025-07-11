@@ -1,0 +1,21 @@
+For Slippi:
+
+    Use profile 1 (GCC with Melee coordinates) & make sure you don't have an adapter plugged into your PC at the same time, as the Slab won't work in that case. The polling rate for this is 1000hz. 
+
+    Slippi setup steps:
+        - plug in Superslab without any button holds (by default, Melee mode will be used)
+        - set port 1 (or whatever) to GameCube Adapter for Wii U
+
+by default top left small black button is start
+
+
+Accessing the Settings Page
+
+1. While pressing and holding any one of the menu buttons (M1-M6), connect the
+Superslab to a computer using the provided USB-A to USB-C cable.
+Note: When the board is properly connected in the Slab Settings Page state, a
+purple light animation will appear. The profile currently being edited will be
+illuminated white.
+
+2. Open a web browser on the computer.
+3. In the browser's address bar, navigate to 192.168.120.240

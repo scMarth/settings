@@ -1,0 +1,1 @@
+Note: if you need to reset the password, use reset password from mobile, then in your email, check in spam and mark the email as not suspicious, then re-open in normal inbox to click reset link
