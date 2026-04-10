@@ -1,0 +1,17 @@
+Fix for older replays loading up with black screen, but you still hear audio:
+    https://us.forums.blizzard.com/en/sc2/t/starcraft-2-is-blackscreen-with-sound-with-windows-11-24h2/29909/21
+
+    C:\Users\YOURUSERNAME\Documents\StarCraft II
+
+    open variables.txt
+
+    Turned it back to:
+
+    width=1920
+    height=1080
+
+    That worked for me.
+
+
+Fix for game loading up with black screen:
+    gear icon next to play > game settings > paste following in "additional command line arguments" : '-Displaymode 1'

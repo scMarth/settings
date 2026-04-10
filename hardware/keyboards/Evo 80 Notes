@@ -1,0 +1,9 @@
+FN + D to check the battery status
+
+    you have to unplug it to check the battery status:
+
+        charge percentage is indicated by the light under the Esc key:
+        0 - 10 red
+        10 - 50 yellow
+        50 - 80 blue
+        80 - 100 green

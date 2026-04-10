@@ -1,0 +1,5 @@
+Use on Slippi:
+    controller settings > set port 1 to gamecube adapter for Wii U > hold Y button (top row second from left) > plug in via USB-C
+
+Use on Gamecube:
+    connect with USB-C to gamecube > hold d-pad right while plugging in
