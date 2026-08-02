@@ -1,0 +1,7 @@
+If this microphone is used with an audio interface with has +48V phantom power disabled (or does not have the capability to use +48V phantom power) then it can only be used when the microphone is switched to bypass mode.
+
+If bypass mode is switched off, you have to turn on +48V phantom power to get any sound.
+
+Seems to sound the best when bypass mode is off, and the interface has +48V phantom power, with the max gain on the microphone enabled. Using the max gain boost on the microphone, and reducing the gain on the audio interface will reduce background noise / hiss since the microphone is boosting the signal right at the source and the noise introduced by the interface amp is reduced. Basically you want the audio interface gain just low enough so that there's no clipping but high enough to get the most volume.
+
+When you are done using it, turn off the +48V phantom power, then disconnect the interface. You don't need to change any of the microphone settings.
