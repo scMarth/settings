@@ -1,3 +1,8 @@
 alt + Z bring up nvidia settings
 
 alt + f10 = save last x time in recordings (however long you set the recording length to)
+
+if audio is muted:
+
+    - open NVIDIA app
+    - bring up volume mixer > make sure NVIDIA Container is unmuted
